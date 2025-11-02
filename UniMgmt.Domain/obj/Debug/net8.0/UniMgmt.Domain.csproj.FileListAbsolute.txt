@@ -1,0 +1,5 @@
+/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Domain/obj/Debug/net8.0/UniMgmt.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Domain/obj/Debug/net8.0/UniMgmt.Domain.AssemblyInfoInputs.cache
+/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Domain/obj/Debug/net8.0/UniMgmt.Domain.AssemblyInfo.cs
+/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Domain/obj/Debug/net8.0/UniMgmt.Domain.csproj.CoreCompileInputs.cache
+/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Domain/obj/Debug/net8.0/UniMgmt.Domain.sourcelink.json
