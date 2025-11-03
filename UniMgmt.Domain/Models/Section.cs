@@ -7,11 +7,19 @@ public class Section
     public int CourseId { get; set; }
     public Course? Course { get; set; }
     
+    public int ProfessorId { get; set; }
+    public Professor? Professor { get; set; }
+    
     public int ClassRoomId { get; set; }
     public ClassRoom? ClassRoom { get; set; }
     
+    public DayOfWeek DayOfWeek { get; set; }
+    public TimeSpan StartTime { get; set; }
+    public TimeSpan EndTime { get; set; }
+    
     public DateTime StartDate { get; set; }
     public DateTime EndDate { get; set; }
+    
     public int MaxPlace { get; set; }
 
     public List<Enrollment> Enrollments { get; set; } = new List<Enrollment>();

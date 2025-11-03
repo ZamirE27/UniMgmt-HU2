@@ -13,4 +13,6 @@ public class Professor
     
     public int ProfessorStatusId { get; set; }
     public ProfessorStatus? ProfessorStatus { get; set; }
+
+    public List<Section> Sections { get; set; } = new List<Section>();
 }

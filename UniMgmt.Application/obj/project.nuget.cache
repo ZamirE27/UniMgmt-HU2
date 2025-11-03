@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JLwMV4dw7qI=",
+  "dgSpecHash": "kBL5qvLxD8g=",
   "success": true,
-  "projectFilePath": "/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Application/UniMgmt.Application.csproj",
+  "projectFilePath": "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniMgmt-HU2/UniMgmt.Application/UniMgmt.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "er7OoBWQ7yY=",
+  "dgSpecHash": "Aj/Pz7w7BNQ=",
   "success": true,
-  "projectFilePath": "/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Infrastructure/UniMgmt.Infrastructure.csproj",
+  "projectFilePath": "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniMgmt-HU2/UniMgmt.Infrastructure/UniMgmt.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/home/zamir-estrada/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/zamir-estrada/.nuget/packages/microsoft.bcl.asyncinterfaces/7.0.0/microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

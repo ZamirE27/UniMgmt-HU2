@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yhPwb0S2tWU=",
+  "dgSpecHash": "vl8eku/rbus=",
   "success": true,
-  "projectFilePath": "/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Api/UniMgmt.Api.csproj",
+  "projectFilePath": "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniMgmt-HU2/UniMgmt.Api/UniMgmt.Api.csproj",
   "expectedPackageFiles": [
     "/home/zamir-estrada/.nuget/packages/microsoft.aspnetcore.openapi/8.0.21/microsoft.aspnetcore.openapi.8.0.21.nupkg.sha512",
     "/home/zamir-estrada/.nuget/packages/microsoft.entityframeworkcore/9.0.10/microsoft.entityframeworkcore.9.0.10.nupkg.sha512",
