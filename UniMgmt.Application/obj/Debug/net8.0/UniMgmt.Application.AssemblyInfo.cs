@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UniMgmt.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bf45dd4a8f5e1c9b904e5d6540fdd087a6da97f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff657f1bbaf3459eff9802beb0b7cd284c188e64")]
 [assembly: System.Reflection.AssemblyProductAttribute("UniMgmt.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UniMgmt.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

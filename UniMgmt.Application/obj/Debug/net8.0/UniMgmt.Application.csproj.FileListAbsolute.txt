@@ -1,0 +1,16 @@
+/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Application/bin/Debug/net8.0/UniMgmt.Application.deps.json
+/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Application/bin/Debug/net8.0/UniMgmt.Application.dll
+/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Application/bin/Debug/net8.0/UniMgmt.Application.pdb
+/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Application/bin/Debug/net8.0/UniMgmt.Domain.dll
+/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Application/bin/Debug/net8.0/UniMgmt.Domain.pdb
+/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Application/obj/Debug/net8.0/UniMgmt.Application.csproj.AssemblyReference.cache
+/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Application/obj/Debug/net8.0/UniMgmt.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Application/obj/Debug/net8.0/UniMgmt.Application.AssemblyInfoInputs.cache
+/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Application/obj/Debug/net8.0/UniMgmt.Application.AssemblyInfo.cs
+/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Application/obj/Debug/net8.0/UniMgmt.Application.csproj.CoreCompileInputs.cache
+/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Application/obj/Debug/net8.0/UniMgmt.Application.sourcelink.json
+/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Application/obj/Debug/net8.0/UniMgmt.Application.csproj.CopyComplete
+/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Application/obj/Debug/net8.0/UniMgmt.Application.dll
+/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Application/obj/Debug/net8.0/refint/UniMgmt.Application.dll
+/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Application/obj/Debug/net8.0/UniMgmt.Application.pdb
+/home/zamir-estrada/Documents/C#/Projects-DDD/UniversityManagement-DDD-HU2/UniMgmt.Application/obj/Debug/net8.0/ref/UniMgmt.Application.dll
